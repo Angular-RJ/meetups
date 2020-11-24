@@ -8,7 +8,7 @@
 .background {
   position: absolute;
   width: 100%;
-  background: linear-gradient(145deg,#0d47a1,#42a5f5);
+  background: linear-gradient(145deg,#c3002f,#dd0031);
   min-height: 400px;
   z-index: -1;
   transform: skewY(8deg);
@@ -17,14 +17,23 @@
 
 .intro {
   display: flex;
-  width: 800px;
+  width: 850px;
   color: #FFF;
+  margin-top: -50px;
+}
+
+.intro__logo {
+  margin-right: 25px;
 }
 
 .intro__info {
   display: flex;
   flex-direction: column;
   justify-content: center;
+}
+
+.intro__header {
+  text-align: center;
 }
 
 .intro__info h1 {
