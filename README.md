@@ -1,6 +1,6 @@
-# Meetups AngularSP
+# Meetups Angular-RJ
 
-Essa aplicação foi construída para gerar os banners de divulgação dos meetups do AngularSP
+Essa aplicação foi construída para gerar os banners de divulgação dos meetups do Angular-RJ
 
 Os eventos ficam cadastrados no arquivo `events.json` dentro da pasta assets, junto com as imagens dos palestrantes
 
